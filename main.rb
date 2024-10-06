@@ -9,7 +9,7 @@ shell {
     grid_layout(100, false) #two columns with differing widths
     
     button {
-      text 'Click'
+      text 'Run application'
       
       on_widget_selected do
         message_box {
